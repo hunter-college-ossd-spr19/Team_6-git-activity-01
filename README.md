@@ -3,3 +3,4 @@
 *Team Members*
 
  - Yi Zong Kuang
+ - Eli Augustin
